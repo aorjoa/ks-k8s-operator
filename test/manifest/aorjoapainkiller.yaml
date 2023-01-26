@@ -1,0 +1,5 @@
+
+apiVersion: example.aor.dev/v1
+kind: AorJoaPainKiller
+metadata:
+  name: test-01
